@@ -10,7 +10,7 @@ updates:
           - "*"
 
   - package-ecosystem: github-actions
-    directory: "/.github/actions/setup-python"
+    directory: "/.github/actions/setup-uv"
     schedule:
       interval: daily
     groups:
